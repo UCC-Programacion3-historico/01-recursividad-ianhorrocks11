@@ -2,6 +2,8 @@
 #include "potencia.h"
 
 int main() {
-    std::cout << "Ejercicio 01/01\n" << std::endl;
+    potencia(3,4);
+  std::cout << "Ejercicio 01/01\n" << std::endl;
+    
     return 0;
 }

@@ -2,5 +2,6 @@
 
 
 int sumatoria(int *arr, unsigned int size) {
+  
     return 0;
 }
